@@ -1,36 +1,273 @@
-  # 💫 About Me:
-# Hi there, I'm M Lohitth 👋<br><br>I am a Data Science and Cyber Security student based in Tirunelveli, currently studying at Karunya University. I have a strong focus on Python, data analytics, and interactive web development. I am passionate about exploring AI tools, building robust applications, and taking on freelance projects in web scraping and data analytics.<br><br>## 🚀 About Me<br>* 🎓 **Education:** Pursuing Data Science & Cyber Security at Karunya University, Coimbatore.<br>* 🏆 **Recent Achievement:** 2nd Prize Winner at Mindkraft 2026 (Bot Fest) for building a comprehensive finance website.<br>* 💻 **Currently Building:** A professional 3D interactive CV utilizing React and Tailwind CSS.<br>* ⚡ **Interests:** When I'm not coding or looking into extreme PC hardware builds, you can probably find me catching up on *One Piece*. <br><br>## 🛠️ Skills & Technologies<br>* **Languages:** Python, JavaScript, HTML/CSS<br>* **Web & Frameworks:** React, Tailwind CSS<br>* **Core Focus Areas:** Data Analytics, Web Scraping, Cyber Security Concepts<br><br>## 📫 Let's Connect<br>* **LinkedIn:** [m-lohitth-1619b7378](https://www.linkedin.com/in/m-lohitth-1619b7378)<br>* **Email:** mlohitth@karunya.edu.in
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:4c1d95,100:6d28d9&height=220&section=header&text=M%20LOHITTH&fontSize=60&fontColor=e9d5ff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20AI%20%26%20Cyber%20Security&descAlignY=55&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_me_lohi__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/M LOHITTH) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mlohitth@karunya.edu.in) 
+<a href="https://github.com/Lohi-git">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Turning+Data+into+Insights+with+Python%2C+SQL+%26+AI;B.Tech+Artificial+Intelligence+%40+Karunya;Building+AI-powered+%26+Full+Stack+Projects;Open+to+Internships+%26+Collaboration" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![ReScript](https://img.shields.io/badge/rescript-%2314162c?style=for-the-badge&logo=rescript&logoColor=e34c4c) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Scaleway](https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Grav](https://img.shields.io/badge/grav-%23FFFFFF.svg?style=for-the-badge&logo=grav&logoColor=221E1F) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Nx](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white) ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Sidequest](https://img.shields.io/badge/sidequest-%23101227.svg?style=for-the-badge&logo=sidequest&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Lohi-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Lohi-git&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lohi-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Education](https://img.shields.io/badge/B.Tech-Artificial%20Intelligence-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Coimbatore%2C%20India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
 
----
-[![](https://komarev.com/ghpvc/?username=Lohi-git&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<a href="https://lohitth-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mlohitth-1619b7378"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mlohitth@karunya.edu.in"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Lohi-git"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<!--
-**Lohi-git/Lohi-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/><br/>
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=Lohi-git&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Lohi-git?style=for-the-badge&color=7C3AED&labelColor=1a0b2e)
+![Stars](https://img.shields.io/github/stars/Lohi-git?style=for-the-badge&color=A78BFA&labelColor=1a0b2e)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br/>
+
+## 🪐 About Me
+
+```
+> Data Science & AI undergraduate exploring the intersection of Python,
+> machine learning, and interactive web development. I build practical
+> ML models, hands-on IoT/AI experiments, and clean full-stack interfaces —
+> with a growing focus on data analytics and applied AI tooling.
+```
+
+- 🎓 Currently pursuing **B.Tech in Artificial Intelligence** at Karunya Institute of Technology and Sciences (2025 – 2029)
+- 🏆 **2nd Prize Winner — Mindkraft 2026 (Bot Fest)** for building a comprehensive finance website
+- 💻 Currently building a **3D interactive CV** using React & Tailwind CSS
+- 📊 Core interests: **Data Analytics, Machine Learning, Web Scraping, Cyber Security concepts**
+- 🌱 Actively exploring AI tools and freelance-style data projects
+- 📫 Reach me at **mlohitth@karunya.edu.in**
+
+<br/>
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-14151a?style=for-the-badge&logo=python&logoColor=A78BFA)
+![JavaScript](https://img.shields.io/badge/JavaScript-14151a?style=for-the-badge&logo=javascript&logoColor=A78BFA)
+![HTML5](https://img.shields.io/badge/HTML5-14151a?style=for-the-badge&logo=html5&logoColor=A78BFA)
+![CSS3](https://img.shields.io/badge/CSS3-14151a?style=for-the-badge&logo=css3&logoColor=A78BFA)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-14151a?style=for-the-badge&logo=react&logoColor=A78BFA)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-14151a?style=for-the-badge&logo=tailwindcss&logoColor=A78BFA)
+
+**Data Science & AI**
+
+![NumPy](https://img.shields.io/badge/NumPy-14151a?style=for-the-badge&logo=numpy&logoColor=A78BFA)
+![Pandas](https://img.shields.io/badge/Pandas-14151a?style=for-the-badge&logo=pandas&logoColor=A78BFA)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-14151a?style=for-the-badge&logo=scikitlearn&logoColor=A78BFA)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-14151a?style=for-the-badge&logo=plotly&logoColor=A78BFA)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-14151a?style=for-the-badge&logo=git&logoColor=A78BFA)
+![GitHub](https://img.shields.io/badge/GitHub-14151a?style=for-the-badge&logo=github&logoColor=A78BFA)
+![Vercel](https://img.shields.io/badge/Vercel-14151a?style=for-the-badge&logo=vercel&logoColor=A78BFA)
+![Jetson Nano](https://img.shields.io/badge/Jetson_Nano-14151a?style=for-the-badge&logo=nvidia&logoColor=A78BFA)
+
+</div>
+
+<br/>
+
+## 🧠 AI / ML & Data Focus
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| Machine Learning | 🟣🟣🟣⚪⚪ | Regression models, applied ML fundamentals (e.g. Multiple Linear Regression for sales prediction) |
+| Data Structures | 🟣🟣🟣⚪⚪ | Core algorithmic foundations for Python-based problem solving |
+| Data Science | 🟣🟣🟣⚪⚪ | Data cleaning, analysis, and visualization with Python tooling |
+| AI on Edge Devices | 🟣🟣⚪⚪⚪ | Hands-on with NVIDIA Jetson Nano for applied AI experiments |
+| IoT Fundamentals | 🟣🟣⚪⚪⚪ | Introductory IoT concepts and device-level programming |
+| Cyber Security | 🟣🟣⚪⚪⚪ | Foundational cyber security concepts as part of coursework |
+
+<br/>
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>🏆 Finance Website — Mindkraft 2026 (Bot Fest)</b></summary>
+<br/>
+
+Won 2nd Prize at Mindkraft 2026 (Bot Fest) for a comprehensive finance website built during the hackathon.
+
+| | |
+|---|---|
+| **Stack** | Web (HTML/CSS/JavaScript) |
+| **Scale** | Hackathon build — end-to-end finance web app |
+| **Impact** | 🏆 2nd Prize, Mindkraft 2026 (Bot Fest) |
+| **Repository** | Not yet public |
+
+</details>
+
+<details>
+<summary><b>📈 CodSoft Sales Prediction</b></summary>
+<br/>
+
+CodSoft internship Task 4 — a sales prediction model built using Multiple Linear Regression (MLR) to forecast sales from advertising spend data.
+
+| | |
+|---|---|
+| **Stack** | Python, Pandas, scikit-learn |
+| **Scale** | Single-notebook ML task |
+| **Performance** | Regression-based prediction on structured tabular data |
+| **Repository** | [codsoft-sales-prediction](https://github.com/Lohi-git/codsoft-sales-prediction) |
+
+</details>
+
+<details>
+<summary><b>✋ Hand Gesture Control</b></summary>
+<br/>
+
+A Python-based system for controlling actions through hand gesture recognition.
+
+| | |
+|---|---|
+| **Stack** | Python |
+| **Scale** | Modular project (config, core logic, utils, action handlers) |
+| **Repository** | [Hand-Gesture-Control](https://github.com/Lohi-git/Hand-Gesture-Control) |
+
+</details>
+
+<details>
+<summary><b>🌐 Personal Portfolio</b></summary>
+<br/>
+
+A personal portfolio website showcasing projects, skills, and background as a Data Science & Cyber Security student.
+
+| | |
+|---|---|
+| **Stack** | JavaScript |
+| **Live Site** | [lohitth-portfolio.vercel.app](https://lohitth-portfolio.vercel.app/) |
+| **Repository** | [LOHITTH-PORTFOLIO](https://github.com/Lohi-git/LOHITTH-PORTFOLIO.) |
+
+</details>
+
+<details>
+<summary><b>🧩 3D Interactive CV <i>(in progress)</i></b></summary>
+<br/>
+
+A professional 3D interactive CV currently being built with React and Tailwind CSS.
+
+| | |
+|---|---|
+| **Stack** | React, Tailwind CSS |
+| **Status** | 🚧 In development |
+
+</details>
+
+<br/>
+
+## 🎓 Certifications
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python%20(Basic)-14151a?style=flat-square&logo=python&logoColor=A78BFA)
+![IoT](https://img.shields.io/badge/Introduction%20to%20IoT-14151a?style=flat-square&logo=internetcomputer&logoColor=A78BFA)
+![Jetson Nano](https://img.shields.io/badge/AI%20on%20Jetson%20Nano-14151a?style=flat-square&logo=nvidia&logoColor=A78BFA)
+![AI For All](https://img.shields.io/badge/AI%20Aware%20Badge%20--%20AI%20For%20All-14151a?style=flat-square&logo=openai&logoColor=A78BFA)
+![German](https://img.shields.io/badge/German%20Language-14151a?style=flat-square&logo=googletranslate&logoColor=A78BFA)
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Lohi-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false&title_color=A78BFA&icon_color=8B5CF6&text_color=e9d5ff&bg_color=14151a" width="48%"/>
+<img src="https://github-readme-streak-stats.demolab.com/?user=Lohi-git&theme=dark&hide_border=false&background=14151a&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=e9d5ff" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lohi-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&title_color=A78BFA&text_color=e9d5ff&bg_color=14151a" width="48%"/>
+
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Lohi-git&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="90%"/>
+
+</div>
+
+<br/>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lohi-git&theme=react-dark&hide_border=true&bg_color=14151a&color=A78BFA&line=8B5CF6&point=e9d5ff" width="95%"/>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Lohi-git/Lohi-git/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
+<sub>Snake animation activates once <a href="https://github.com/Platane/snk">the workflow</a> is added to the profile repo.</sub>
+
+</div>
+
+<br/>
+
+## 🔭 Current Focus
+
+```yaml
+Learning:
+  - Machine Learning & Data Science fundamentals
+  - Applied AI on edge devices (Jetson Nano)
+  - Cyber Security concepts
+
+Building:
+  - 3D Interactive CV (React + Tailwind CSS)
+  - Data-driven ML mini-projects
+
+Exploring:
+  - Web scraping & data analytics tooling
+  - Freelance data analytics opportunities
+
+Open To:
+  - Internships in Data Science / AI / ML
+  - Freelance projects in web scraping & analytics
+  - Collaborations on open-source AI projects
+```
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:mlohitth@karunya.edu.in"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mlohitth-1619b7378"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Lohi-git"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://lohitth-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*"Data is just noise until curiosity turns it into insight."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:4c1d95,100:1a0b2e&height=120&section=footer" width="100%"/>
+
+</div>
